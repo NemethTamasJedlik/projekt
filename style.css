@@ -1,6 +1,5 @@
 body{
     background-color: black;
-
 }
 
 
@@ -17,7 +16,8 @@ h1{
     font-weight: bold;
     margin-top: 150px;
     padding-left: 11rem; 
-    margin-left: 300px;   
+    margin-left: 300px;
+
 }
 
 h2{    
@@ -80,3 +80,14 @@ footer{
     background-color: skyblue;
     border-radius: 500px;
 }
+
+#igazitas{
+    margin-top: 25px;
+}
+
+h4{
+    margin-top: 50px;
+    margin-left: 320px;
+    color: red;
+}
+
